@@ -1,0 +1,8 @@
+requests
+dnsdumpster
+BeautifulSoup4
+ping3
+colorama
+sty
+tabulate
+fake_useragent
