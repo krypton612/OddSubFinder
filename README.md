@@ -94,7 +94,7 @@ Successfully installed dnsdumpster-0.8 ping3-4.0.4 sty-1.0.4 tabulate-0.9.0
 
 [notice] A new release of pip is available: 23.0 -> 23.1.2
 [notice] To update, run: python.exe -m pip install --upgrade pip
-krypton612@localhost:~$ python __main__.py -h
+(venv) krypton612@localhost:~$ python __main__.py -h
 +--------------------------------------+----------+
 |++++++++++++++++++++++++++++++++++++++|Shell Kr6 |
 +--------------------------------------+----------+
