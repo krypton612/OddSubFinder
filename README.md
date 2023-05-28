@@ -126,4 +126,7 @@ options:
   -h, --help      show this help message and exit
   -s, --strict    Enables strict mode, where only proper (and not also related) subdomains will be saved
   -g, --gravitiy  Full scan Validator host
+(venv) krypton612@localhost:~$
+
+
 ```
