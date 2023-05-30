@@ -1,6 +1,6 @@
 # OddSubFinder
 Otro buscador de subdominios
-<<<<<<< HEAD
+
 =======
 
 ```
